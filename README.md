@@ -1,2 +1,108 @@
 # Awesome-Customer-Research-Agent
-# Awesome-Customer-Research-Agent
+## Top Customer Research Platforms Ecosystem
+
+**Curated List of SaaS Products & Open-Source GitHub Projects**  
+*Focused on User Interviews, Surveys, Feedback Analysis & Customer Insights*  
+**Last updated: March 2026**
+
+This repository tracks notable **SaaS platforms** and **open-source projects** building **Customer Research Platforms**. These tools help teams conduct user interviews, run surveys, analyze feedback, discover insights, and turn customer voices into actionable product decisions through AI-powered transcription, sentiment analysis, theme detection, and report generation.
+
+**Examples** include Listen Labs, Strella, Outset AI, Great Question, User Intuition, and Discuss.io (the category leaders). Tools listed here emphasize **AI-assisted insights**, qualitative research automation, participant management, and seamless integration with product workflows.
+
+**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local LLMs (Ollama), full data privacy, and complete customization — ideal for product teams and researchers who want sovereign customer data and unlimited usage.
+
+Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+
+## Table of Contents
+- [SaaS Products](#saas-products)
+- [Open-Source GitHub Projects](#open-source-github-projects)
+- [How to Contribute](#how-to-contribute)
+- [Disclaimer](#disclaimer)
+
+## SaaS Products
+
+### Core Platforms (Customer Research)
+
+- **[Listen Labs](https://listenlabs.ai/)**  
+  AI-powered customer research platform that automates interview analysis, insight extraction, and report generation.
+
+- **[Strella](https://strella.ai/)**  
+  Intelligent research platform specializing in synthesizing user interviews and qualitative data at scale.
+
+- **[Outset AI](https://outset.ai/)**  
+  AI-first customer research tool that runs, transcribes, and analyzes interviews with deep insight discovery.
+
+- **[Great Question](https://greatquestion.com/)**  
+  All-in-one customer research platform for recruiting, interviewing, and turning feedback into product decisions.
+
+- **[User Intuition](https://userintuition.com/)**  
+  AI-assisted platform focused on uncovering deep user insights through structured research.
+
+- **[Discuss.io](https://www.discuss.io/)**  
+  Enterprise-grade video research platform with strong AI analysis and global participant recruitment.
+
+### Advanced & Specialized Platforms
+
+**Other notable mentions**: Dovetail, EnjoyHQ, Aurelius, and UserTesting with AI features.
+
+## Open-Source GitHub Projects
+
+### Dedicated Customer Research & Feedback Tools
+
+- **[Formbricks](https://github.com/formbricks/formbricks)**  
+  Open-source experience management and survey platform. Perfect for in-product surveys, feedback collection, and customer research with full self-hosting.
+
+- **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)**  
+  The most mature open-source survey tool with advanced question types, logic, and analysis capabilities.
+
+- **[PostHog](https://github.com/PostHog/posthog)**  
+  Complete open-source product analytics suite with built-in session replay, surveys, and feedback tools — excellent for customer research.
+
+- **[Matomo](https://github.com/matomo-org/matomo)**  
+  Privacy-first open-source analytics platform with powerful segmentation and qualitative feedback modules.
+
+- **[OpenFeedback](https://github.com/openfeedback/openfeedback)**  
+  Open-source platform for collecting and analyzing user feedback with strong visualization.
+
+- **[Twenty](https://github.com/twentyhq/twenty)**  
+  Modern open-source CRM with strong note-taking and customer interaction tracking suitable for research teams.
+
+- **[Docmost](https://github.com/docmost/docmost)**  
+  Open-source collaborative wiki and knowledge base ideal for organizing customer research findings.
+
+- **[NocoDB](https://github.com/nocodb/nocodb)**  
+  Open-source Airtable alternative — turn databases into powerful research dashboards and forms.
+
+- **[Budibase](https://github.com/Budibase/budibase)**  
+  Open-source low-code platform for building internal research tools, dashboards, and feedback portals.
+
+### Additional Strong Open-Source Options
+
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** — Open-source Notion alternative for organizing research notes.
+- **[Logseq](https://github.com/logseq/logseq)** — Outliner-based knowledge base with excellent research workflow support.
+- **[SiYuan](https://github.com/siyuan-note/siyuan)** — Block-based local-first notebook for deep customer insight synthesis.
+- **Ollama + LlamaIndex RAG stacks** for building private interview analysis agents.
+- **Many community projects** combining **Whisper** (transcription) + **LangGraph** for automated insight extraction.
+- **Form.io** and **SurveyJS** — Powerful open-source form and survey builders.
+
+**Frameworks for building custom solutions**: Combine **Formbricks** + **PostHog** + **Ollama/LangChain** to create fully local, AI-powered customer research platforms with interview transcription and insight generation.
+
+## How to Contribute
+
+1. Fork the repo.
+2. Add/edit entries in `README.md` (follow existing format).
+3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+4. Submit PR with a short explanation.
+
+Star the repo if you find it useful!
+
+## Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an endorsement.
+- Always ensure compliance with data privacy regulations (GDPR, CCPA) when handling customer research data.
+- Self-hosted open-source solutions require proper security and backup practices.
+
+---
+
+**Made for product managers, UX researchers, founders, and customer insights teams.**  
+Let's make customer research more accessible, private, and insight-rich.
