@@ -102,6 +102,20 @@ Star the repo if you find it useful!
 - Always ensure compliance with data privacy regulations (GDPR, CCPA) when handling customer research data.
 - Self-hosted open-source solutions require proper security and backup practices.
 
+
+## 📈 Star History
+
+<div align="center">
+	<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Customer-Research-Agent&type=date&legend=bottom-right">
+	 <picture>
+	   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Customer-Research-Agent&type=date&theme=dark&legend=bottom-right" />
+	   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Customer-Research-Agent&type=date&legend=bottom-right" />
+	   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Customer-Research-Agent&type=date&legend=bottom-right" />
+	 </picture>
+	</a>
+</div>
+
+
 ---
 
 **Made for product managers, UX researchers, founders, and customer insights teams.**  
