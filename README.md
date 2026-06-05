@@ -56,23 +56,17 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ### 🚀 Core Platforms (Customer Research)
 
-- **[Listen Labs](https://listenlabs.ai/)**  
-  AI-powered customer research platform that automates interview analysis, insight extraction, and report generation.
-
-- **[Strella](https://strella.ai/)**  
-  Intelligent research platform specializing in synthesizing user interviews and qualitative data at scale.
-
-- **[Outset AI](https://outset.ai/)**  
-  AI-first customer research tool that runs, transcribes, and analyzes interviews with deep insight discovery.
-
-- **[Great Question](https://greatquestion.com/)**  
-  All-in-one customer research platform for recruiting, interviewing, and turning feedback into product decisions.
-
-- **[User Intuition](https://userintuition.com/)**  
-  AI-assisted platform focused on uncovering deep user insights through structured research.
-
-- **[Discuss.io](https://www.discuss.io/)**  
-  Enterprise-grade video research platform with strong AI analysis and global participant recruitment.
+| Platform | Description | Pricing & Free Tier |
+| :--- | :--- | :--- |
+| **[Listen Labs](https://listenlabs.ai/)** | AI-powered platform that automates interview analysis, extraction, and report generation. | **Free Trial** available. Enterprise pricing (Demo required). |
+| **[Strella](https://strella.ai/)** | AI-moderated interviews (chat/video) with rapid synthesis and a 3M+ vetted participant panel. | **Enterprise Model**: ~$10k-$25k per study. Subscription tiers start at ~$150/mo. |
+| **[Outset](https://outset.ai/)** | AI-first research tool that runs, transcribes, and analyzes interviews with deep discovery. | **Demo Required**. Customized enterprise pricing based on volume. |
+| **[Great Question](https://greatquestion.com/)** | All-in-one platform for recruiting, interviewing, and turning feedback into product decisions. | **Free Study** with AI. Paid plans scale with recruitment needs. |
+| **[User Intuition](https://userintuition.com/)** | AI-moderated research using a "pay-per-quality-interview" model with pattern detection. | **Starter**: $0/mo ($25/voice interview). **3 Free Interviews** trial. |
+| **[Discuss.io](https://www.discuss.io/)** | Enterprise video research platform with strong AI analysis and global participant recruitment. | **Free Consultation**. Quote-based pricing for AI & Human-led research. |
+| **[Dovetail](https://dovetailapp.com/)** | Generative research platform for analysis, repository, and intelligence. | **60-Day Free Trial** (Unlimited). Tiered paid plans. |
+| **[Aurelius](https://www.aureliuslab.com/)** | Powerful research repository and insights platform for synthesis and reporting. | **30-Day Free Trial** (Full access). Monthly/Annual subscriptions. |
+| **[UserTesting](https://www.usertesting.com/)** | Enterprise-grade insights hub (includes EnjoyHQ) with deep qualitative testing capacity. | **Demo Required**. Customized pricing (Essentials, Advanced, Ultimate). |
 
 ### 🛠️ Advanced & Specialized Platforms
 
