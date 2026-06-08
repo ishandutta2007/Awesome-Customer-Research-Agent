@@ -157,3 +157,7 @@ We love contributions! Help us keep this list the #1 resource for **Customer Res
 
 **Made for product managers, UX researchers, founders, and customer insights teams.**  
 Let's make customer research more accessible, private, and insight-rich.
+
+## 🔐 Agent Identity & Trust Tools
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for customer research AI agents. Verify agent identity before accessing sensitive customer data APIs or making autonomous x402 micropayments for data enrichment. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
