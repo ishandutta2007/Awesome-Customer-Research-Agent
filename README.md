@@ -57,17 +57,18 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ### 🚀 Core Platforms (Customer Research)
 
-| Platform | Description | Pricing & Free Tier |
-| :--- | :--- | :--- |
-| **[Listen Labs](https://listenlabs.ai/)** | AI-powered platform that automates interview analysis, extraction, and report generation. | **Free Trial** available. Enterprise pricing (Demo required). |
-| **[Strella](https://strella.ai/)** | AI-moderated interviews (chat/video) with rapid synthesis and a 3M+ vetted participant panel. | **Enterprise Model**: ~$10k-$25k per study. Subscription tiers start at ~$150/mo. |
-| **[Outset](https://outset.ai/)** | AI-first research tool that runs, transcribes, and analyzes interviews with deep discovery. | **Demo Required**. Customized enterprise pricing based on volume. |
-| **[Great Question](https://greatquestion.com/)** | All-in-one platform for recruiting, interviewing, and turning feedback into product decisions. | **Free Study** with AI. Paid plans scale with recruitment needs. |
-| **[User Intuition](https://userintuition.com/)** | AI-moderated research using a "pay-per-quality-interview" model with pattern detection. | **Starter**: $0/mo ($25/voice interview). **3 Free Interviews** trial. |
-| **[Discuss.io](https://www.discuss.io/)** | Enterprise video research platform with strong AI analysis and global participant recruitment. | **Free Consultation**. Quote-based pricing for AI & Human-led research. |
-| **[Dovetail](https://dovetailapp.com/)** | Generative research platform for analysis, repository, and intelligence. | **60-Day Free Trial** (Unlimited). Tiered paid plans. |
-| **[Aurelius](https://www.aureliuslab.com/)** | Powerful research repository and insights platform for synthesis and reporting. | **30-Day Free Trial** (Full access). Monthly/Annual subscriptions. |
-| **[UserTesting](https://www.usertesting.com/)** | Enterprise-grade insights hub (includes EnjoyHQ) with deep qualitative testing capacity. | **Demo Required**. Customized pricing (Essentials, Advanced, Ultimate). |
+| Platform | Description | Pricing & Free Tier | Company Size (Valuation / Funding) |
+| :--- | :--- | :--- | :--- |
+| **[UserTesting](https://www.usertesting.com/)** | Enterprise-grade insights hub (includes EnjoyHQ) with deep qualitative testing capacity. | **Demo Required**. Customized pricing (Essentials, Advanced, Ultimate). | **$1.3B Valuation** (Acquired) / $160M+ ARR |
+| **[Dovetail](https://dovetailapp.com/)** | Generative research platform for analysis, repository, and intelligence. | **60-Day Free Trial** (Unlimited). Tiered paid plans. | **$700M+ Valuation** / $71M Funding |
+| **[Listen Labs](https://listenlabs.ai/)** | AI-powered platform that automates interview analysis, extraction, and report generation. | **Free Trial** available. Enterprise pricing (Demo required). | **$500M+ Valuation** / $100M Funding |
+| **[Outset](https://outset.ai/)** | AI-first research tool that runs, transcribes, and analyzes interviews with deep discovery. | **Demo Required**. Customized enterprise pricing based on volume. | **$100M+ Est. Valuation** / $51M Funding |
+| **[Strella](https://strella.ai/)** | AI-moderated interviews (chat/video) with rapid synthesis and a 3M+ vetted participant panel. | **Enterprise Model**: ~$10k-$25k per study. Subscription tiers start at ~$150/mo. | **$40M+ Est. Valuation** / $18M Funding |
+| **[Great Question](https://greatquestion.com/)** | All-in-one platform for recruiting, interviewing, and turning feedback into product decisions. | **Free Study** with AI. Paid plans scale with recruitment needs. | **$35M+ Est. Valuation** / $16M Funding |
+| **[Discuss.io](https://www.discuss.io/)** | Enterprise video research platform with strong AI analysis and global participant recruitment. | **Free Consultation**. Quote-based pricing for AI & Human-led research. | **$18M Valuation** (Pre-merger) / $7.7M Funding |
+| **[Aurelius](https://www.aureliuslab.com/)** | Powerful research repository and insights platform for synthesis and reporting. | **30-Day Free Trial** (Full access). Monthly/Annual subscriptions. | Bootstrapped / Accelerator-backed (<$2M Est. Valuation) |
+| **[User Intuition](https://userintuition.com/)** | AI-moderated research using a "pay-per-quality-interview" model with pattern detection. | **Starter**: $0/mo ($25/voice interview). **3 Free Interviews** trial. | Bootstrapped / Pre-seed (<$1M Est. Valuation) |
+
 
 ### 🛠️ Advanced & Specialized Platforms
 
