@@ -80,42 +80,43 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ### 📊 Dedicated Customer Research & Feedback Tools
 
-- **[Formbricks](https://github.com/formbricks/formbricks)**  
-  Open-source experience management and survey platform. Perfect for in-product surveys, feedback collection, and customer research with full self-hosting.
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+  Open-source Airtable alternative — turn databases into powerful research dashboards and forms.
 
-- **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)**  
-  The most mature open-source survey tool with advanced question types, logic, and analysis capabilities.
+- **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+  Modern open-source CRM with strong note-taking and customer interaction tracking suitable for research teams.
 
-- **[PostHog](https://github.com/PostHog/posthog)**  
+- **[PostHog](https://github.com/PostHog/posthog)** [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
   Complete open-source product analytics suite with built-in session replay, surveys, and feedback tools — excellent for customer research.
 
-- **[Matomo](https://github.com/matomo-org/matomo)**  
+- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
+  Open-source low-code platform for building internal research tools, dashboards, and feedback portals.
+
+- **[Matomo](https://github.com/matomo-org/matomo)** [![GitHub stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)  
   Privacy-first open-source analytics platform with powerful segmentation and qualitative feedback modules.
+
+- **[Docmost](https://github.com/docmost/docmost)** [![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
+  Open-source collaborative wiki and knowledge base ideal for organizing customer research findings.
+
+- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+  Open-source experience management and survey platform. Perfect for in-product surveys, feedback collection, and customer research with full self-hosting.
+
+- **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [![GitHub stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers)  
+  The most mature open-source survey tool with advanced question types, logic, and analysis capabilities.
+
+- **[OpenFeedback](https://github.com/HugoGresse/open-feedback)** [![GitHub stars](https://img.shields.io/github/stars/HugoGresse/open-feedback?style=social&color=white)](https://github.com/HugoGresse/open-feedback/stargazers)  
+  Open-source platform for collecting and analyzing user feedback with strong visualization.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZqZ3RzZ3RzZ3RzZ3RzZ3RzZ3RzZ3RzZ3RzZ3RzZ3RzZ3RzZ3ZCZWxpdmVyYXRpbmc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" />
 </p>
 
-- **[OpenFeedback](https://github.com/openfeedback/openfeedback)**  
-  Open-source platform for collecting and analyzing user feedback with strong visualization.
-
-- **[Twenty](https://github.com/twentyhq/twenty)**  
-  Modern open-source CRM with strong note-taking and customer interaction tracking suitable for research teams.
-
-- **[Docmost](https://github.com/docmost/docmost)**  
-  Open-source collaborative wiki and knowledge base ideal for organizing customer research findings.
-
-- **[NocoDB](https://github.com/nocodb/nocodb)**  
-  Open-source Airtable alternative — turn databases into powerful research dashboards and forms.
-
-- **[Budibase](https://github.com/Budibase/budibase)**  
-  Open-source low-code platform for building internal research tools, dashboards, and feedback portals.
-
 ### 📚 Additional Strong Open-Source Options
 
-- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** — Open-source Notion alternative for organizing research notes.
-- **[Logseq](https://github.com/logseq/logseq)** — Outliner-based knowledge base with excellent research workflow support.
-- **[SiYuan](https://github.com/siyuan-note/siyuan)** — Block-based local-first notebook for deep customer insight synthesis.
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) — Open-source Notion alternative for organizing research notes.
+- **[SiYuan](https://github.com/siyuan-note/siyuan)** [![GitHub stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=social&color=white)](https://github.com/siyuan-note/siyuan/stargazers) — Block-based local-first notebook for deep customer insight synthesis.
+- **[Logseq](https://github.com/logseq/logseq)** [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers) — Outliner-based knowledge base with excellent research workflow support.
+
 - **Ollama + LlamaIndex RAG stacks** for building private interview analysis agents.
 - **Many community projects** combining **Whisper** (transcription) + **LangGraph** for automated insight extraction.
 - **Form.io** and **SurveyJS** — Powerful open-source form and survey builders.
