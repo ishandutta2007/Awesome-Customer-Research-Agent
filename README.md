@@ -8,6 +8,7 @@
     <a href="https://github.com/ishandutta2007/Awesome-Customer-Research-Agent/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Research-Agent?style=for-the-badge&color=blue" alt="forks"></a>
     <a href="https://github.com/ishandutta2007/Awesome-Customer-Research-Agent/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Customer-Research-Agent?style=for-the-badge&color=red" alt="issues"></a>
     <a href="https://github.com/ishandutta2007/Awesome-Customer-Research-Agent/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Customer-Research-Agent?style=for-the-badge&color=green" alt="license"></a>
+    <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&color=white"></a>
   </p>
 
   <p align="center">
